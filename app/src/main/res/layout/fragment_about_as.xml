@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutAs">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <android.support.v7.widget.AppCompatImageView
+        android:src="@drawable/crehana_pulsosocial"
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Crehana nace con el propósito de brindar oportunidades de transformación profesional y personal a través de la educación. Tenemos como meta impulsar el crecimiento de nuestros estudiantes con el acceso a educación de calidad para prepararlos a los nuevos retos del mercado laboral." />
+
+</LinearLayout>
